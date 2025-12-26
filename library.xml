@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <id>101</id>
+        <title>HTML &amp; CSS</title>
+        <author>Vicky Doe</author>
+        <category>Web</category>
+        <price>1500</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>102</id>
+        <title>JavaScript Basics</title>
+        <author>Zain Ali</author>
+        <category>Programming</category>
+        <price>1800</price>
+        <status>Issued</status>
+    </book>
+
+    <book>
+        <id>103</id>
+        <title>Python for Beginners</title>
+        <author>Ali Ahmed</author>
+        <category>Programming</category>
+        <price>2000</price>
+        <status>Available</status>
+    </book>
+
+    <book>
+        <id>104</id>
+        <title>Database Systems</title>
+        <author>Michael Smith</author>
+        <category>Database</category>
+        <price>2200</price>
+        <status>Issued</status>
+    </book>
+
+    <book>
+        <id>105</id>
+        <title>Computer Networks</title>
+        <author>Andrew Tanenbaum</author>
+        <category>Networking</category>
+        <price>2500</price>
+        <status>Available</status>
+    </book>
+</library>
